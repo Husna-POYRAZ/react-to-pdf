@@ -1,3 +1,12 @@
+# How to print in React.js?
+
+Example page:<br><br>
+![1](https://user-images.githubusercontent.com/75911392/199562793-74bfa597-2413-4984-8ba9-be9f7714bbc9.png)
+
+When "Print this out!" button click:<br><br>
+![2](https://user-images.githubusercontent.com/75911392/199563036-16844d77-549e-4682-be08-336076277a28.png)
+
+
 ## Step by Step Project
 ## 1- Requirments
 * cmd: npm install --global yarn<br>
